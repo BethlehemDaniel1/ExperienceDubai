@@ -1,3 +1,15 @@
 /**
 * Your CSS here
 **/
+
+body {
+    font-family: 'Oswald', sans-serif;
+}
+h2 {
+    font-family: 'Merriweather', serif;
+}
+
+.light{
+    background-color: #90B0CC;
+    color:white
+}
