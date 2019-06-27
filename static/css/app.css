@@ -3,13 +3,60 @@
 **/
 
 body {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 h2 {
     font-family: 'Merriweather', serif;
 }
 
-.light{
-    background-color: #90B0CC;
-    color:white
+.dark{
+
+    color: white
+}
+.dark{
+    
+    background-image: 
+        linear-gradient(90deg,black,transparent),
+        url('../images/burj_khlifa.jpg');
+    background-size: cover;
+}
+.blue{
+    
+    background-image: 
+        linear-gradient(45deg,black,transparent),
+        url('../images/jumeirah-beach.jpg');
+    background-size: cover;
+}
+.blue{
+    color: white
+}
+.heat{
+    color:black
+}
+.quote{
+    display:grid;
+    grid-template-columns: 1fr  3fr;
+    grid-gap: 20px;
+
+}
+.bold{
+    font-family: 'Oswald', sans-serif;
+}
+.boldfont{
+    font-family: 'Rubik Mono One', sans-serif;
+}
+.info{
+    
+    background-image: 
+        linear-gradient(90deg,white,transparent),
+        url('../images/burj_khalifa.jpg');
+    background-size: cover;
+}
+.info{
+   
+    color: black
+}
+.light{ 
+    color: black
+
 }

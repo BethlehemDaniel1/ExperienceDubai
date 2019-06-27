@@ -12,18 +12,15 @@
 
 Dubai has many cultural highlights and things to do, as well as all the glamorous modern add-ons.Here is a couple of places everyone will enjoy:
 
+- The Jumeirah Beach
 
-- ![a beach with a tall shiny building](./static/images/jumeirah-beach.jpg)
-*The Jumeirah Beach*
+- The Aquarium in Dubai Mall
 
-- ![a huge  indoor aquarium](./static/images/Dubai-Mall-Aquarium.jpg)
-*The Aquarium in Dubai Mall*
+- The Dubai Mall
 
-- ![a huge  mall with many shops](./static/images/dubai_mall.jpg)
-*The Dubai Mall*
+- The Burj Khalifaby the Dubai Mall
 
-- ![a very tall shiny builing](./static/images/burj_khlifa.jpg)
-*The Burj Khalifaby the Dubai Mall*
+- Wild Wadi Waterpark
 
 ## Worried about the heat?
 
@@ -44,8 +41,15 @@ Heard the stories of the scorching Dubai sun? Are you starting to regret or doub
 
 ## Want to know how other people got on in Dubai?
 Heres a couple of reviews on Dubai:
+- ![a woman smiling](./static/images/womansmiling.jpg) 
+ 'Beautiful, Brilliant and Breathtaking.'-by Caitlin23
 
+- ![a man smiling](./static/images/mansmiling.jpg) 
+'One of a kind - an experience that is incomparable' - ValerieMitala
 
-
-
+- ![a woman smiling](./static/images/womanbyhousesmiling.jpg) 
+'Out of this world!!'-radiyathegreatest
+ 
+## The Burj Khalifa 
+The Burj Khalifa, previously known as the Burj Dubai, is a skyscraper in Dubai, United Arab Emirates. the total cost of the construction of the burj khalifa is $1.5 billion. At 2,717 feet high, the Burj Khalifa is not only the world's tallest building, but is a full 1,046 feet higher than the world's previous record-holder, Taipei 101 in Taiwan. the burj khalifa is three times the height of the Effiel Tower and twice the size of the Empire State builidng. 
 
