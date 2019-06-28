@@ -7,6 +7,11 @@ body {
 }
 h2 {
     font-family: 'Merriweather', serif;
+    font-size: 35px;
+}
+ul.plain {
+    list-style: none;
+    padding-left: 0;
 }
 
 .dark{
@@ -60,3 +65,58 @@ h2 {
     color: black
 
 }
+.IMG{
+    background-image: 
+        url('../images/img_dubai.jpg');
+    background-size: cover;
+    height : 260px;
+}
+.IMG{
+    color:white
+}
+.MOTIONG{
+    color:white
+}
+.lego{
+    color:white
+}
+.water{
+    color:white
+}
+.MOTIONG{
+    background-image: 
+        url('../images/motiongate-dubai.jpg');
+    background-size: cover;
+    height : 260px;
+}
+.lego{
+    background-image: 
+        url('../images/legoland_dubai.jpg');
+    background-size: cover;
+    height : 260px;
+
+}
+.water{
+    background-image: 
+        url('../images/legoland-water-park.jpg');
+    background-size: cover;
+    height : 260px;
+}
+.rushpictures{
+    display: flex;
+}
+
+.rushpictures img{
+    flex-shrink: 0;
+    margin-right: 10px;
+    height: 231px;
+
+}
+
+.pictures{
+    overflow: scroll;
+    width: 100%;
+}
+
+
+
